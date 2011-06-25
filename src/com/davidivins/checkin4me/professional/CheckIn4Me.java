@@ -34,7 +34,7 @@ import android.os.Handler;
  */
 public class CheckIn4Me extends Activity
 {
-	private Handler handler = new Handler();
+	private Handler handler             = new Handler();
 	private StartProgramDelayer program = null;
 	
 	/**
